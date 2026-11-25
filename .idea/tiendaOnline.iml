@@ -17,5 +17,16 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="Maven: jakarta.persistence:jakarta.persistence-api:3.2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:11.0.27" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:7.0.10" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-web:7.0.10" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-jpa:4.1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-commons:4.1.2" level="project" />
+    <orderEntry type="library" name="Maven: io.jsonwebtoken:jjwt-api:0.12.6" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-core:7.1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-web:7.1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-config:7.1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-crypto:7.1.2" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.validation:jakarta.validation-api:3.1.1" level="project" />
   </component>
 </module>
